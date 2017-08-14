@@ -1,0 +1,16 @@
+---
+title: New Gizmo Post
+author: SC
+date: '2017-08-14'
+slug: new-gizmo-post
+categories: []
+tags: []
+---
+
+# Lair of Gizmo
+
+Goes here
+
+## Pat 
+
+Pat
